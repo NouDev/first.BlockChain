@@ -1,0 +1,9 @@
+{
+  "name": "BlockChain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "object-hash": "^2.1.1"
+  }
+}
